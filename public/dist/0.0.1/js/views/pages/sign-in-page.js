@@ -1,1 +1,1 @@
-import{a,b as o}from"../../chunk-FHE2ZOIQ.js";var t=class{static get instance(){return t.page||(t.page=new t),t.page}load(e){console.log(t.name,"loaded",e,o(e))}},r=t;a(r,"page");export{r as SignInPage};
+import{a,b as o}from"../../chunk-RAMQC2Q2.js";var e=class{static get instance(){return e.page||(e.page=new e),e.page}load(t){console.log(e.name,"loaded",t,o(t))}},n=e;a(n,"page");export{n as SignInPage};

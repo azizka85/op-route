@@ -1,1 +1,1 @@
-import{b as t}from"./chunk-FHE2ZOIQ.js";async function o(e){let a=`${e}-page`;return(await import(`./views/pages/${a}.js?time=${Date.now()}`))[t(a)]?.instance?.load?.(a)}var n=location.pathname.slice(1)||"home";await o(n);
+import{b as e}from"./chunk-RAMQC2Q2.js";async function t(o){let a=`${o}-page`;return(await import(`./views/pages/${a}.js?time=${Date.now()}`))[e(a)]?.instance?.load?.(a)}var n=location.pathname.slice(1)||"home";await t(n);
