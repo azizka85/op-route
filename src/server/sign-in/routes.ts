@@ -19,8 +19,7 @@ router.get('', (req, res) => {
           contentData: {
             time: Date.now()
           }
-        }
-      }, {
+        },
         partials: {
           'sign-in-page': signInPage
         }

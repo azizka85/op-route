@@ -19,8 +19,7 @@ router.get('', (req, res) => {
           contentData: {
             time: Date.now()
           }
-        }
-      }, {
+        },
         partials: {
           'sign-up-page': signUpPage
         }
